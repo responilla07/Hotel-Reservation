@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="La Vista Pansol Resort Complex.exe" version="1.0.0.0" publicKeyToken="c75578b1245a7923" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="La Vista Pansol Resort Complex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="La Vista Pansol Resort Complex.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="294400">
+      <assemblyIdentity name="Google.Protobuf" version="3.5.1.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kmmLSyM9YCkmP+X33YMDTg/6sJlFHUuInLwRv1o/LXM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="La Vista Pansol Resort Complex.exe" size="657360">
+      <assemblyIdentity name="La Vista Pansol Resort Complex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>K+nKE2HBlvjOsHjixjQv7D+B71Cl2ZpsfKH6ZSSV5Vo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="709632">
+      <assemblyIdentity name="MySql.Data" version="8.0.13.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4KnTND0fQ/2Rby4HrRdCc31GxR+Yho9GbxngMs6Zf/g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="La Vista Pansol Resort Complex.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=yEspo-PC\yEspo" issuerKeyHash="07ec857dc5faec553d4bc985c74a36447b4fccbf" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1Ytcnccw1J6ud/L79tCyQWu8skPFAAaTpu/IQFkvpC4=</DigestValue></Reference></SignedInfo><SignatureValue>oG/d9kiu1ZmrJaW5pO4ZC6Ekq+kYC90DtQPr3/edJaXkAlut1sVNYkguM/mWWA+atgCEx5i/4wyzxlORupDznFPIXzQAniCdQ9JR9EdBNhDv6mnETbLnCwCMquW7hXu3NqWQa+uIpc0mH9wJtTo1PRHZZDDHG+0isPS5UvOLLB0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qkAE8Lv5nTEUczuXdEu5J/drY0MWLw6YmJvRzFaoy9DJQxQr+kEL2mRRXmfdJeRlxhX3rWUXuJEs7bxA1w5YEKvYKe4DoOsbSKHjelFs3l7IoIeQ321j6LIWu5Fct4WTt8lLmG7TUNtBpMj5trV2OvMN/F7+8NCBXVPDy6iw7Ks=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2ea42f5940c8efa6930600c543b2bc6b41b2d0f6fbf277ae9ed430c79d5c8bd5" Description="" Url=""><as:assemblyIdentity name="La Vista Pansol Resort Complex.exe" version="1.0.0.0" publicKeyToken="c75578b1245a7923" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=yEspo-PC\yEspo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Lxq5XmFDwy4TaGqa5Z3cDsrkurZ6548IB7vYOPi5Sbg=</DigestValue></Reference></SignedInfo><SignatureValue>MRqomAnYy1NjLh7HU1GfneMIdePbq5yhrfWcQwKkzybhdhoSdPzZcqVHmKGbpvZ/PG/ljqhNNFqxN1S9CwfcKlNVbsbvidzSMl3gEQN+lt7VsjgJcKkAuTWq1G7YZhaLytbytEbAd1pTop5xCi92z3e9BWnW9tsIqvSqsUdwUgs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qkAE8Lv5nTEUczuXdEu5J/drY0MWLw6YmJvRzFaoy9DJQxQr+kEL2mRRXmfdJeRlxhX3rWUXuJEs7bxA1w5YEKvYKe4DoOsbSKHjelFs3l7IoIeQ321j6LIWu5Fct4WTt8lLmG7TUNtBpMj5trV2OvMN/F7+8NCBXVPDy6iw7Ks=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQceH1ZsPQmLtBhxDmpWR08jANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAeQBFAHMAcABvAC0AUABDAFwAeQBFAHMAcABvMB4XDTE5MDMwOTEwMzg0OVoXDTIwMDMwODE2Mzg0OVowJzElMCMGA1UEAx4cAHkARQBzAHAAbwAtAFAAQwBcAHkARQBzAHAAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqkAE8Lv5nTEUczuXdEu5J/drY0MWLw6YmJvRzFaoy9DJQxQr+kEL2mRRXmfdJeRlxhX3rWUXuJEs7bxA1w5YEKvYKe4DoOsbSKHjelFs3l7IoIeQ321j6LIWu5Fct4WTt8lLmG7TUNtBpMj5trV2OvMN/F7+8NCBXVPDy6iw7KsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAD5RsbD3blGw1VLL9kXMFvADY7gmIE04WC4Cuwn7zn8sJW/jTLiVxdp04Z8kLLcx4NCKl1oHIcOWy7b1cJH0i9OaeT/h2YnhZfgDypzMjzjL0kMHMaSxKduGIjXN2Ibx8ZuxnqsI0WQcHpT406/6r+UTdgWGRtOBXz3A0Kjm4KDg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

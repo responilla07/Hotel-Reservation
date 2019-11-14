@@ -1,0 +1,16 @@
+create database accomodation;
+use accomodation;
+
+CREATE TABLE `accomodation`.`info_cottages` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `roomName` VARCHAR(255) NOT NULL , `roomUnits` VARCHAR(255) NOT NULL , `paxRange` VARCHAR(255) NOT NULL , `amPrice` VARCHAR(255) NOT NULL , `pmPrice` VARCHAR(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_entrance` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `entranceName` VARCHAR(255) NOT NULL , `adultAM` VARCHAR(255) NOT NULL , `adultPM` VARCHAR(255) NOT NULL , `kidsAM` VARCHAR(255) NOT NULL , `kidsPM` VARCHAR(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_guest` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `guestID` VARCHAR(255) NOT NULL , `guestName` VARCHAR(100) NOT NULL , `contactNo` VARCHAR(100) NOT NULL , `emailAddress` VARCHAR(100) NOT NULL , `address` VARCHAR(100) NOT NULL , `gender` VARCHAR(100) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_halls` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `roomName` VARCHAR(255) NOT NULL , `roomUnits` VARCHAR(255) NOT NULL , `paxRange` VARCHAR(255) NOT NULL , `roomPrice` VARCHAR(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_privatepools` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `roomName` VARCHAR(255) NOT NULL , `roomUnits` VARCHAR(255) NOT NULL , `paxRange` VARCHAR(255) NOT NULL , `packageA` VARCHAR(255) NOT NULL , `packageB` VARCHAR(255) NOT NULL , `packageC` VARCHAR(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_rentals` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `rentalName` VARCHAR(255) NOT NULL , `minHour` INT(255) NOT NULL , `amPrice` INT(255) NOT NULL , `pmPrice` VARCHAR(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;
+
+CREATE TABLE `accomodation`.`info_rooms` ( `ID` INT(255) NOT NULL AUTO_INCREMENT , `roomName` VARCHAR(255) NOT NULL , `roomUnits` INT(255) NOT NULL , `paxRange` INT(255) NOT NULL , `priceAt12` INT(255) NOT NULL , `priceAt22` INT(255) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = MyISAM;

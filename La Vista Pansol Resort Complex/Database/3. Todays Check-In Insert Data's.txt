@@ -1,0 +1,185 @@
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit H', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit I', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit J', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bario_makiling` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit K', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `bucal_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `casa_blanca` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `casa_blanca` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `casa_blanca` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `casa_blanca` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `dormitory` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Upper Ilang-Ilang', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Mini Conference Hall', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Conference Hall', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Nora Luisa Hall', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Multi Purpose Hall', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Convention Hall', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Upper Pantalan', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `halls` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Lower Pantalan', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 1', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 2', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 3', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 4', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 5', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `kubo` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 6', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `lower_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 1', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 2', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 3', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 4', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 5', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `mushroom` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 6', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `natalies` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 1', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 2', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 3', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 4', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 5', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 6', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 7', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 8', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 9', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 10', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `pavillion` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 11', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 1', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 2', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 3', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 4', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 5', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 6', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 7', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 8', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 9', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 10', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 11', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 12', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 13', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 14', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 15', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 16', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 17', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 18', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 19', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 20', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 21', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 22', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 23', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 24', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 25', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 26', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 27', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 28', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 29', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 30', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 31', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 32', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 33', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 34', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 35', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 36', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 37', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 38', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 39', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 40', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 41', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 42', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 43', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 44', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 45', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 46', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 47', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 48', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 49', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 50', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 51', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 52', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 53', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `picnic_hut` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit 54', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `private_pools` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Ilang-Ilang', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `private_pools` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'FRH A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `private_pools` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'FRH B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `private_pools` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'FRH C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `private_pools` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'FRH D', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit H', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_2` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit I', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `single_cottage_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `single_cottage_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `sotano_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `sotano_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `sotano_4` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `sotano_6` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `suite_room` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `suite_room` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit A', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit B', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit C', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit D', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit E', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit F', '', '', '', '2019-03-26 00:00:00', 'available');
+INSERT INTO `upper_rest_house` (`id`, `unitName`, `guestName`, `guestID`, `transacNo`, `dateTimeCheckOut`, `availability`) VALUES (NULL, 'Unit G', '', '', '', '2019-03-26 00:00:00', 'available');
+
+
+
+
+
+
+

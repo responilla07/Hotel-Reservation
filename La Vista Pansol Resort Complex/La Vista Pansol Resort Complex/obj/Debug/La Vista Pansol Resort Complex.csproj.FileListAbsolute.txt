@@ -1,0 +1,52 @@
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csprojAssemblyReference.cache
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex.Properties.Resources.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._MainForm.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.GenerateResource.cache
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.CoreCompileInputs.cache
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.exe.config
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.exe
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.pdb
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.exe
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.pdb
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Reservation.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\MySql.Data.dll
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\Google.Protobuf.dll
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\MySql.Data.xml
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._CheckIn.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._CheckOut.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._LoginForm.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._NewGuest.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.CopyComplete
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Home.resources
+C:\Users\yEspo\Desktop\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Rooms.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.exe.config
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.exe
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.pdb
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\MySql.Data.dll
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\Google.Protobuf.dll
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\MySql.Data.xml
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csprojAssemblyReference.cache
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex.Properties.Resources.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._LoginForm.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.GenerateResource.cache
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.CoreCompileInputs.cache
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.csproj.CopyComplete
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.exe
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.pdb
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.exe.manifest
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\bin\Debug\La Vista Pansol Resort Complex.application
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.exe.manifest
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La Vista Pansol Resort Complex.application
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._1AdminMainForm.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersCheckIn.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersCheckOut.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersMainForm.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersNewGuest.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersReservation.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Admin1CheckIn.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Admin1GuestList.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Admin1Reservation.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Home.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Admin1AddStaffs.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._Admin1Prices.resources
+F:\A Projects\Updating Projects for FINAL\La Vista Pansol Resort Complex\La Vista Pansol Resort Complex\obj\Debug\La_Vista_Pansol_Resort_Complex._UsersRates.resources
